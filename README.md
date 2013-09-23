@@ -1,0 +1,4 @@
+allDataInHere
+=============
+
+myData
